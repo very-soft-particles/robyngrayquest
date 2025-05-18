@@ -67,3 +67,20 @@ address {
     top: 40px;
     left: 10px;
 }
+
+.table_column_header {
+    color:rebeccapurple;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: medium;
+    text-align: left;
+    bottom: auto;
+    height: 40px;
+}
+
+.table_row_element {
+    color: rgb(255, 0, 80);
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+    padding-right: 40px;
+}
