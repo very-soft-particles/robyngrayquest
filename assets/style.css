@@ -48,6 +48,19 @@ body {
     color:purple;
 }
 
+.article_title {
+    font-size: large;
+    color: rebeccapurple;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+.article {
+    font-size: medium;
+    color: rgb(255, 0, 80);
+    font-family:'Times New Roman', Times, serif;
+}
+
 
 .nav_elem {
     font-size: large;
@@ -74,7 +87,6 @@ address {
     font-style: italic;
     font-size: medium;
     text-align: left;
-    bottom: auto;
     height: 40px;
 }
 
